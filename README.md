@@ -8,15 +8,13 @@
 </a>
 
 <br/>
+<br/>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I am a CS-AI sophomore at Plaksha University, serving as the Founding President of <a href="https://www.linkedin.com/company/geekroom-plaksha/"> Geek Room Plaksha <a>
 - 👯 I’m looking to collaborate on **Full Stack & AI-ML Projects**
 - 📫 Reach me at **akshat3144@gmail.com**
-
-<br/>
-<br/>
 
 ## 🚀 Languages and Tools:
 
