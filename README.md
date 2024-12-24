@@ -29,8 +29,6 @@
 <img align="left" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/redux.png"/>
-<img align="left" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" width="48" height="48"/>
 <img align="left" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" width="48" height="48"/>
 
 <br>
