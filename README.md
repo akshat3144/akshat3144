@@ -1,4 +1,4 @@
-![alt text](https://github.com/Akshat3144/Akshat3144/blob/main/Header.png?raw=true)
+![alt text](https://github.com/Akshat3144/Akshat3144/blob/main/Profile_Banner.png?raw=true)
 
 <a href="https://www.linkedin.com/in/akshat-gupta-840740285/">
   <img align="left" alt="" width="50px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
