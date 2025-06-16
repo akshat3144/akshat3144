@@ -30,31 +30,31 @@
 
 <p align="left">
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" alt="C++" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" width="48" height="48" alt="Express.js" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" alt="React.js" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.icons8.com/?size=48&id=jD-fJzVguBmw&format=png&color=000000" alt="Redux" />
+    <img src="https://img.icons8.com/?size=48&id=jD-fJzVguBmw&format=png&color=000000" width="48" height="48" alt="Redux" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://img.icons8.com/?size=100&id=5mbMwDZ796xj&format=png&color=000000" width="48" height="48" alt="Flask" />
@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" />
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48" height="48" alt="MySQL" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="48" height="48" alt="PostgreSQL" />
@@ -75,7 +75,7 @@
     <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" width="48" height="48" alt="Firebase" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+    <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" alt="Git" />
   </span>
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="48" height="48" alt="NumPy" />
