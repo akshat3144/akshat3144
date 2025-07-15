@@ -22,7 +22,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I am a CS-AI sophomore at Plaksha University, serving as the Founding President of <a href="https://geekroom-plaksha.tech/">**Geek Room Plaksha**</a>
-- 🚀 Co-Founder & CEO at <a href="https://drift-ai.tech/">**Drift AI**</a>, working on agentic AI solutions for businesses
+- 🚀 Co-Founder at <a href="https://drift-ai.tech/">**Drift AI**</a>, working on agentic AI solutions for businesses
 - 👯 I'm looking to collaborate on **Full Stack & AI-ML Projects**
 - 📫 Reach me at **akshat3144@gmail.com**
 
